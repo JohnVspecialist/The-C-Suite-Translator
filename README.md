@@ -4,7 +4,8 @@ Are you struggling to communicate technical information that drives decision-mak
 
 I created this prompt to solve the common problem of technical teams struggling to communicate effectively with executives.
 
-
+Prompt:
+"Briefly present the single most important takeaway from a recent project, focusing on its relevance to a senior decision-maker. In one line, state the key insight, and in two sentences, frame its importance in the project’s context. Support with two precise pieces of evidence to reinforce this takeaway, using only the most essential details. Conclude by summarizing the strategic impact, ensuring the language is clear, professional, and suitable for non-technical listeners."
 
 Use Cases:
 
